@@ -1,4 +1,3 @@
-%matplotlib inline
 import tensorflow as tf
 import pickle
 from tensorflow.keras import layers
